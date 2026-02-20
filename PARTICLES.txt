@@ -1,20 +1,21 @@
- PARTICLE  |     TYPE       |  FUNCTION                                         |
--nib       | noun           | plural (a few)                                    |
--nibi      | noun           | plural (a crowd)                                  |
--ta        | universal      | emphasis on word                                  |
- gab       |sentence end    | questions a statement                             | 
--wn        |adj. transform. |"-ness", "good" -> "goodness"                      |
- ned-      |adjective       | "-un" "not", negates                              |
- sar-      |   verb         | "stop", indicating closure                        |
- fhol-     |sentence start  | Imperitive/Vocative                               |
--ym/-my    |adj. trans.     | "-ly", "poor" -> "poorly"                         |
- ness-     | irregular      | expansion, "outer-"                               |
- thie-     |   verb         | indicates complete, perfect                       |
- jugg-     |   verb         | indicates active, "verbing"                       |
--seg       |verb transform. |when things "verb"                                 |
--poodd     |verb transform. |when things are "verbed"                           |
--poodd'seg |verb transform. |"verbing" both verbed and when verb                |
--mo/-omo   |     noun       |adressive particle                                 |
--do-       |    clause      |fucntions as a semicolon, comma, etc.              |
- lado-     | verb modifct.  | "er", "employ" -> "employer"                      |
- fhado-    | verb modifct.  | "ee", "employ" -> "employee"                      |
+ PARTICLE  |     TYPE       |       FUNCTION                                       |
+-nib       | noun           | plural (a few)                                       |
+-nibi      | noun           | plural (a crowd)                                     |
+-ta        | universal      | emphasis on word                                     |
+ gab       |sentence end    | questions a statement                                | 
+-wn        |adj. transform. |"-ness", "good" -> "goodness"                         |
+ ned-      |adjective       | "-un" "not", negates                                 |
+ sar-      |   verb         | "stop", indicating closure                           |
+ fhol-     |sentence start  | Imperitive/Vocative                                  |
+-ym/-my    |adj. trans.     | "-ly", "poor" -> "poorly"                            |
+ ness-     | irregular      | expansion, "outer-"                                  |
+ thie-     |   verb         | indicates complete, perfect                          |
+ jugg-     |   verb         | indicates active, "verbing"                          |
+-seg       |verb transform. |when things "verb"                                    |
+-poodd     |verb transform. |when things are "verbed"                              |
+-poodd'seg |verb transform. |"verbing" both verbed and when verb                   |
+-mo/-omo   |     noun       |adressive particle                                    |
+-do-       |    clause      |fucntions as a semicolon, comma, etc.                 |
+ lado-     | verb modifct.  | "er", "employ" -> "employer"                         |
+ fhado-    | verb modifct.  | "ee", "employ" -> "employee"                         |
+ rolt-     |verb transform. | things derived of a verb; "paint" into "a painting"  |
