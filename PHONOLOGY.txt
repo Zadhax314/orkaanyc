@@ -1,0 +1,156 @@
+VOWELS
+RED VOWELS
+
+These are mostly A-related or “open” vowels.
+
+aa
+
+"ay" sound, as in "day" /eɪ/
+
+a
+
+Default: "ah" sound, as in "aqua" /a/
+
+Between two consonants: "a" sound, as in "apple"
+
+ea
+
+Always "ah" sound, as in "aqua" /æ/
+
+au
+
+Always "a" sound as in "apple" /a/
+
+ie
+
+"ai" sound, as in "Kai" /aɪ/ (NOT like English "pike")
+
+ol
+
+"o" sound as in "lot" /ɑ/
+
+The "l" is pronounced unless followed by a consonant
+
+BLUE VOWELS
+
+These are mostly "round" or "back" vowels.
+
+oo
+
+"oo" as in "good" /ʊ/
+
+o
+
+"oh" as in "go" /o/
+
+ou
+
+"uh" sound as in "up" /ʌ/
+
+u
+
+"oo" as in "goo" /u/
+
+y
+
+"ih" as in the Y in "Sydney" /ɪ/
+
+At word-end: closer to a Russian-style hard "y"
+
+w 
+
+"wu", with the "u" barely audible /u̯/
+
+YELLOW VOWELS
+
+These are mostly "light" or neutral vowels.
+
+e
+
+"e" as in "egg" /ɛ/
+
+ey
+
+unstressed vowel like the a in "about" or "sofa" /ə/
+
+i
+
+"ee" as in "Wii" /i/
+
+CONSONANTS
+SIMPLE CONSONANTS (single letters)
+
+b – same as English /b/
+d - same as English /d/
+f – same as English /f/ 
+g – soft "j" sound in the middle /dʒ/; "ng" at word-end /ŋ/. Hard at the beginning always /g/
+h – mostly used in digraphs, but can make the same sound as in English /h/
+j – "y" as in "yellow" /j/
+k – same as English /k/
+l – same as English /l/
+m – same as English /m/
+n – same as English /n/
+p – same as English /p/ 
+r – same as English /ɹ/
+s – "z" only at word-end /z/ ; "s" elsewhere /s/
+t – same as English /t/ 
+x – "ks" /ks/
+z – same as English /z/
+
+DOUBLE / COMPLEX CONSONANTS
+cc
+
+Always "ch" /tʃ/
+
+Only mid or end of word
+
+(Single "c" is also "ch", except at word-end)
+
+c (end of word only)
+
+"k" /k/ 
+
+dd
+
+"nd" sound at end of word /nd/
+
+dj
+
+"j" sound as in "judge" /dʒ/
+
+fh
+
+"th" as in "thief" /θ/
+
+gg
+
+Hard "g" as in "ghost", mid or end /ɡ/ 
+
+hj
+
+Always normal "h" sound, but uncommon. /h/ 
+
+sc
+
+"sh" sound /ʃ/
+
+sj
+
+"zh" sound, as in French "Jacques" /ʒ/
+
+th
+
+"th" as in "the" /ð/ 
+
+xx
+
+"sk" /sk/
+
+SPECIAL RHOTIC COMBINATIONS
+
+
+or – "or" /oɹ/
+ar – "ar" /aɹ/
+er – "air" /ɛɹ/
+yr – "er" /ɝ/
+ir – "ear"/iɹ/
