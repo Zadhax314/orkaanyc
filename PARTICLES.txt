@@ -1,6 +1,6 @@
  PARTICLE  |     TYPE       |       FUNCTION                                       |
--nib       | noun           | plural (a few)                                       |
--nibi      | noun           | plural (a crowd)                                     |
+nib-       | noun           | plural (a few)                                       |
+nibi-      | noun           | plural (a crowd)                                     |
 -ta        | universal      | emphasis on word                                     |
  gab       |sentence end    | questions a statement                                | 
 -wn        |adj. transform. |"-ness", "good" -> "goodness"                         |
