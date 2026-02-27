@@ -19,3 +19,9 @@ nibi-      | noun           | plural (a crowd)                                  
  lado-     | verb modifct.  | "er", "employ" -> "employer"                         |
  fhado-    | verb modifct.  | "ee", "employ" -> "employee"                         |
  rolt-     |verb transform. | things derived of a verb; "paint" into "a painting"  |
+-top       |directional     |up -> above, in -> inside, etc.                       |
+-tyn/-eyn  |   adjective    |Turns a verb or noun to an Adjective, "-y"            |
+-wleyt     |    noun        |"-ism", specifies aa concept about a noun             |
+-olsan/-san|adj. transform. | "-iful", full of someting                            |
+-ubo       | adj. transform.| the likeness or emulation of a noun                  |
+-sec       |      verb      |   the completion of a verb (rather than closure)     |
