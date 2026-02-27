@@ -1,5 +1,32 @@
-   WORD      |                                          DEFINITION                                                                 |
-be           | to, indirectional or redirectional                                                                                  |
-ko           | and, specifically in terms of sets, and does not count as "also"                                                    |
-cil          | and not                                                                                                             |
-nwc          | relative word, "who", "where", "why", i.e. in "I know the man who did this", but not "who are you"                  |
+   WORD    |                                                  DEFINITION                                                                                             |
+be         | to, indirectional or redirectional                                                                                                                      |
+ko         | and, specifically in terms of sets, and does not count as "also"                                                                                        |
+cil        | and not                                                                                                                                                 |
+nwc        | relative word, "who", "where", "why", i.e. in "I know the man who did this", but not "who are you"                                                      |
+doun       | a/an. Refers to select instance of a set of a noun. "An appled rolled on the floor" not "if you eat an apple it tastes sweet"                           |
+ron        |the/this/that, refers to a specific, previously stated instance. "I want the apple" or "I want that apple" or "I want this apple"                        |
+roon       |the, refers to a title. "The Joker", "The Backrooms", "The Green Hornet"                                                                                 |
+wc         |"has", to possess something in some way.                                                                                                                 |
+poc        |"is"                                                                                                                                                     |
+molp       |"does", to intiate an action.                                                                                                                            |
+bjan       |"what"/"who", an interogative asking about an individual or object.                                                                                      |
+zan        |"who", an interogative questioning identity specifically. "Who is that man?" rather than "Who or what did this?"                                         |
+sjut       |"how long?"                                                                                                                                              |
+nig        |"what kind", an interogative questioning classification                                                                                                  |
+crapw      |"why"/"how", questioning method or explantion                                                                                                            |
+zroop      |"why", specifically questioning motive                                                                                                                   |
+djeal      | "To what extent?"                                                                                                                                       |
+bylfh      |"so"/"that"/"so that", in the case of "I want it so I can fly" for example.                                                                              |
+jiec       |"even"/"yet", in the case of "even so" or "and yet I still feel nothing"                                                                                 |
+gog        |"what?", an interogative exclamation                                                                                                                     |
+fhyth      |"that"/"this"/"it", essentially a pronoun for a noun specifically that of which was previously specified.                                                |
+kewn       |because                                                                                                                                                  |
+spo        |"and"/"also"/"and also", refering specifically to different ideas rather than different items in a set. "I love you and I want to fly"                   |
+togh       |"with what?", an interogative questioning means                                                                                                          |
+bagh       | "with", in the sense of "I hit him with the spoon", instrumental, rather than "I went fishing with my brother".                                         |
+fhrol      |"for", "in honor of", "I did this for the king"                                                                                                          |
+pan        |"though", "despite"                                                                                                                                      |
+peggw      |"indeed", "quite", the opposite of "though"                                                                                                              |
+krupol     |"unless"                                                                                                                                                 |
+djruggo    |"As long as", opposite of "unless"                                                                                                                       |
+fhy        |"like", "well" "well, Seymour, I made it" "it, like, exploded"                                                                                           |
