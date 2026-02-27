@@ -1,0 +1,5 @@
+   WORD      |                                          DEFINITION                                                                 |
+be           | to, indirectional or redirectional                                                                                  |
+ko           | and, specifically in terms of sets, and does not count as "also"                                                    |
+cil          | and not                                                                                                             |
+nwc          | relative word, "who", "where", "why", i.e. in "I know the man who did this", but not "who are you"                  |
