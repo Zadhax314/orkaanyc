@@ -1,0 +1,2 @@
+Feb.27 2026: PHONOLOGY.txt -v0.1.0
+Feb.27 2026: PARTICLES.txt -v0.1.0
