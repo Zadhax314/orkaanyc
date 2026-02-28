@@ -10,7 +10,7 @@ For more info on the license, see LICENSE.md
 
 ## Current development phase
 As of February 27, 2026
-I've mostly been writing Orkaanyc in a physical notebook, so right now it's mostly just transcribing and organzing what I wrote in my notebook to here. The language does have a grammar structure and all that, but I haven't transcribed it yet. That being said, even if I instantly could transcribe everything from my notebook to GitHub, I still would make some tweaks before publishing a "stable" release.
+I've mostly been writing Orkaanyc in a physical notebook, so right now it's mostly just transcribing and organzing what I wrote in my notebook to here. The language does have a grammar structure and all that, but I haven't transcribed it yet. That being said, even if I instantly could transcribe everything from my notebook to GitHub, I still would make some tweaks before publishing a "stable" release. I'm just pushing out this release to have something out there, at least so I can have a basis.
 
 ## Fileguide
 ### README.md
@@ -18,9 +18,9 @@ The file you are reading right now. Will get updated with every major update of 
 ### PHONOLOGY.txt
 The Phonology of Orkaanyc, with both IPA and examples of sounds in English. I imagine it won't change much other than updates to pronounciation based on accent and fixing typos.
 ### PARTICLES.txt
-A list of Particles in Orkaanyc. Will get updated as new particles are added.
+A list of Particles in Orkaanyc. Will get updated as new particles are added. Also needs more consistant formatting
 ### ESSENTIAL-WORDS.txt
-A list of basic words with specific grammatical functions such as the corresponding words for "what", "if", "because", "or", "to", "some", etc. This file will likely later get divided into several smaller files based on grammatical function, but for now it's just a way to keep track of important words.
+A list of basic words with specific grammatical functions such as the corresponding words for "what", "if", "because", "or", "to", "some", etc. This file will likely later get divided into several smaller files based on grammatical function, but for now it's just a way to keep track of important words. It currently is still pretty messy, at least in terms of formatting.
 ### VERSIONS.txt
 A changelog of every file as of February 26, 2025, but while files made before them will be included, changes made before them will not.
 ### LICENSE.md
