@@ -30,3 +30,35 @@ peggw      |"indeed", "quite", the opposite of "though"                         
 krupol     |"unless"                                                                                                                                                 |
 djruggo    |"As long as", opposite of "unless"                                                                                                                       |
 fhy        |"like", "well" "well, Seymour, I made it" "it, like, exploded"                                                                                           |
+lythe      |"such a..." "what a..."                                                                                                                                  |
+jeanyp     | "if"                                                                                                                                                    |
+sjouc      | "from"                                                                                                                                                  |
+ju         | all/every (no distinction between mass and quantity)                                                                                                    |
+gu         | "any"                                                                                                                                                   |
+pla        | "only"                                                                                                                                                  |
+jow        | "some"                                                                                                                                                  |
+jel        | "none"                                                                                                                                                  |
+ini        | "same", "like"                                                                                                                                          |
+pel        | "still", "yet", as in "It still stands" or "it stands yet"                                                                                              |
+geap       | "too", as in "me too"                                                                                                                                   |
+peny       | "too", as in "too much"                                                                                                                                 |
+poggeyl    |"now"                                                                                                                                                    |
+djaggel    | "then" (past)                                                                                                                                           |
+fholggel   | "then" (future)                                                                                                                                         |
+pag        |"of", as in "number of", "manner of", etc.                                                                                                               |
+guwney     | "how many?", a quantitative interogative                                                                                                                |
+mola       | "up"                                                                                                                                                    |
+dogah      |"down"                                                                                                                                                   |
+rolggeyt   | "with", possesive or precense, as in "I am with my brother"                                                                                             |
+noneyt     |"without"                                                                                                                                                |
+bon        | "at", "around", "in visinity of"                                                                                                                        |
+gont       | "may" (permission)                                                                                                                                      |
+midd       | "can" (ability)                                                                                                                                         |
+nexx       | "could" (capacity)                                                                                                                                      |
+platolg    | "of", as in "bath of ice", "house of leaves", etc.                                                                                                      |
+junetw     | "one", refering to an individual, as in "One does not simply walk into mordor".                                                                         |
+raddi      | "yes", "indeed", generally a positive answer or response.                                                                                               |
+donou      | "no", "not", generally a negative answer or response.                                                                                                   |
+oxt        | "more", refering to a verb doing more of the verb, or to an adjective, but not to a noun. Could act as a comparative.                                   |
+los        | like oxt, in referance, but meaning "less" instead of "more"                                                                                            |
+ukom       | "very"                                                                                                                                                  |
