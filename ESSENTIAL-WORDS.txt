@@ -62,3 +62,17 @@ donou      | "no", "not", generally a negative answer or response.              
 oxt        | "more", refering to a verb doing more of the verb, or to an adjective, but not to a noun. Could act as a comparative.                                   |
 los        | like oxt, in referance, but meaning "less" instead of "more"                                                                                            |
 ukom       | "very"                                                                                                                                                  |
+nescit     | opposite of "very"                                                                                                                                      |
+then       | "in"                                                                                                                                                    |
+gien       | "out"                                                                                                                                                   |
+mukoln     | "past", adverb signifying succession of some kind                                                                                                       |
+nudwn      | "before", adverb signifying an action prior in some way                                                                                                 |
+scendil    | "must", "have to"                                                                                                                                       |
+cold'ri    | "what is going on", questioning events in general                                                                                                       |
+koontyss   |to happen                                                                                                                                                |
+fadli      | "here"                                                                                                                                                  |
+dafi       | "there"                                                                                                                                                 |
+ceamip     | "when", time intergotative.                                                                                                                             |
+bisat      | "where", physical location interogative                                                                                                                 |
+oop        | "more", in terms of nouns                                                                                                                               |
+ep         | "less", in terms of nouns rather than verbs or adjectives                                                                                               |
